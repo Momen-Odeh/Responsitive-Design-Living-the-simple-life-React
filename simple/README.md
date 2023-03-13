@@ -13,11 +13,8 @@ Overall, a project created using responsive design with media queries and flexbo
 * CSS
   * Flex Box
   * Mrdia Quary
-
-## Run Code
-We can show the pages of the project from github-pages 
-
-https://momen-odeh.github.io/Responsitive-Design-Living-the-simple-life/
+* Java Script
+  * React Library
 
 ## Real Example
 let's take the head of the page as an example on different devices such as Desktops with a screen size of 1440px and mobile with a screen size of 425px.
