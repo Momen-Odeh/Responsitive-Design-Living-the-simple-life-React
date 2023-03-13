@@ -1,0 +1,14 @@
+.header{
+    background-color: #F8F8F8;
+    align-items: center;
+}
+
+nav{
+    max-width: 950px;
+    display: flex;
+    justify-content: space-between  ;
+    padding: 2.5em 5%;
+    margin: 0 auto ;
+    align-items: center;
+    /* border: #1792D2 solid 1px; */
+}

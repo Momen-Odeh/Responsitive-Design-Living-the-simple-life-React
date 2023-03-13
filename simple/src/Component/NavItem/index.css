@@ -1,0 +1,18 @@
+.ListItem{
+    margin: 1rem;
+}
+.anchShow {
+    text-decoration: none;
+    color: #717171;
+    font-size: 1.25rem;
+    padding: 2px;
+    font-weight: 700;
+}
+
+.anchShow:hover,
+.anchShow:focus{
+    color: #1792D2;
+}
+.curren-select{
+    border-bottom: #717171 solid 2px;
+}
