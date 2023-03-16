@@ -6,3 +6,10 @@
     margin-top: 3em;
 }
 
+@media (max-width: 750px)
+{
+    .body-content {
+        padding: 0 5%;
+    }
+}
+

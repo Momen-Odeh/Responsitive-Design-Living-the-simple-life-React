@@ -7,3 +7,10 @@
     /* background-color: yellowgreen; */
     width:65%;
 }
+
+@media (max-width:750px)
+{
+    .MainBody{
+        width:100%;
+    }
+}

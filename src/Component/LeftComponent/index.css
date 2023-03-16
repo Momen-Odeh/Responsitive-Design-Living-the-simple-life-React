@@ -3,3 +3,9 @@
     width: 200px;
     height: 250px;
 }
+
+@media (max-width: 750px){
+.leftcomponent img {
+    width: 100%;
+}
+}

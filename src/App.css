@@ -22,22 +22,22 @@
     .body-content{
         flex-direction: column;
     }
-    .MainBody{
-        /* background-color: yellowgreen; */
+    /* .MainBody{
+        
         width:100%;
-    }
-    .Aside{
+    } */
+    /* .Aside{
         width: 100%;
-    }
+    } */
     .component{
         flex-direction: column;
     }
     .leftcomponent{
         margin: 0;
     }
-    .leftcomponent img {
+    /* .leftcomponent img {
         width: 100%;
-    }
+    } */
     .RightComponent img{
         width: 100%;
     }

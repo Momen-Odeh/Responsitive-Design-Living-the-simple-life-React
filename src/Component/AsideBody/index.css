@@ -1,1 +1,6 @@
 .Aside{width: 30%;}
+
+@media (max-width:750px)
+{
+    .Aside{width: 100%;}
+}
