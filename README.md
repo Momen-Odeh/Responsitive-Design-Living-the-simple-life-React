@@ -1,1 +1,0 @@
-# Responsitive-Design-Living-the-simple-life-React
